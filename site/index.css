@@ -1,0 +1,36 @@
+
+body{
+ margin:0;
+ padding:0;
+ background: url(background.jpg);
+ background-position:center center;
+ background-repeat: no-repeat;
+ background-attachment:fixed;
+ background-size:cover;
+}
+
+#wrapper{
+	position:absolute;
+	border-radius:25px;
+	box-shadow:5px 10px 5px #000000;
+	top:25%;
+	left:35%;
+	padding:0;
+	height:30%;
+	width:30%;
+	background-color:white;
+}
+
+.content{
+	position:relative;
+	text-align:center;
+	top:25%;
+}
+
+.red{
+	color:red;
+}
+
+
+
+
